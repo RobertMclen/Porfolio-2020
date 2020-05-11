@@ -1882,7 +1882,7 @@ body.nav-active .nav__list-item:nth-child(10) {
 	cursor: pointer;
 }
 .project-link-wrap p{
-	font-size: 100px;
+	font-size: 60px;
 	line-height: 80px;
 	color: #c4c3ca;
 	font-family: 'Poppins', sans-serif;
